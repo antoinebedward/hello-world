@@ -1,2 +1,3 @@
 # hello-world
-This is mean learning github.
+This is me learning github.
+This is the next part of their excercise.
